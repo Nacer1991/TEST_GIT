@@ -2,8 +2,8 @@ package com.example.demo.entity;
 
 public class git5 {
 public static void mymet(){
-	System.out.println("commit nacer");
-	System.out.println("commit amole");
-	System.out.println("commit emanu");
-}
+	System.out.println("debut");
+	System.out.println("alka");
+	System.out.println("nacer");
+	System.out.println("nacer");
 }
