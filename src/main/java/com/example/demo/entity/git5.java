@@ -14,7 +14,7 @@ public static void mymet(){
 	System.out.println("is 10");
 	
 	System.out.println("i am yelhan");
-	System.out.println("i am ibb 16");
+	System.out.println("i am ib 16");
 
 }
 }
